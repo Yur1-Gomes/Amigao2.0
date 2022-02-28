@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Amigao2.0/static/css/main.067b9391.css",
+    "main.js": "/Amigao2.0/static/js/main.d234dc28.js",
+    "static/js/787.34e5c078.chunk.js": "/Amigao2.0/static/js/787.34e5c078.chunk.js",
+    "static/media/golden-retriever.jpg": "/Amigao2.0/static/media/golden-retriever.cba0fc6a6a1b97296aa5.jpg",
+    "static/media/vira-lata.jpg": "/Amigao2.0/static/media/vira-lata.6083b988d05184c0769a.jpg",
+    "static/media/pitbull.jpg": "/Amigao2.0/static/media/pitbull.d1df19df3be071da6152.jpg",
+    "static/media/petlogo.png": "/Amigao2.0/static/media/petlogo.1bdc1d83f81200bf8232.png",
+    "static/media/persa.jpg": "/Amigao2.0/static/media/persa.efba7effb7b4756755ad.jpg",
+    "static/media/siames.jpg": "/Amigao2.0/static/media/siames.dd8a600cce93ea96fa20.jpg",
+    "static/media/angora.jpg": "/Amigao2.0/static/media/angora.56905c38b2e0ae736125.jpg",
+    "index.html": "/Amigao2.0/index.html",
+    "main.067b9391.css.map": "/Amigao2.0/static/css/main.067b9391.css.map",
+    "main.d234dc28.js.map": "/Amigao2.0/static/js/main.d234dc28.js.map",
+    "787.34e5c078.chunk.js.map": "/Amigao2.0/static/js/787.34e5c078.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.067b9391.css",
+    "static/js/main.d234dc28.js"
+  ]
+}
